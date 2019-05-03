@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 30
+Disallow: /
+Disallow: /dbConnect.php
+Disallow: /Logs/
+Disallow: /backup.zip

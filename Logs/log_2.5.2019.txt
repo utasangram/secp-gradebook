@@ -1,0 +1,332 @@
+User: 2605:6001:e154:f000:91e7:533d:285:7231 - May 2, 2019, 3:24 pm
+Attempt: Please enter the user name
+User: 
+Event:Login
+-------------------------
+User: 70.119.218.190 - May 2, 2019, 5:41 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 70.119.218.190 - May 2, 2019, 6:41 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 2605:6000:8bc7:8f00:794d:bb2a:d676:f722 - May 2, 2019, 6:42 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 70.119.218.190 - May 2, 2019, 6:43 pm
+Attempt: Successful student Login
+User: steve123
+Event:Login
+-------------------------
+User: 70.119.218.190 - May 2, 2019, 6:46 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 2605:6000:8bc7:8f00:794d:bb2a:d676:f722 - May 2, 2019, 6:57 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 2605:6000:8bc7:8f00:794d:bb2a:d676:f722 - May 2, 2019, 7:02 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 2605:6000:8bc7:8f00:794d:bb2a:d676:f722 - May 2, 2019, 7:14 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 8:54 pm
+Attempt: Please enter the user name
+User: 
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 8:54 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:06 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:13 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:18 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:21 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:22 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:25 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:51 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 9:58 pm
+Attempt: Successful student Login
+User: steve123
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 9:59 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:02 pm
+Attempt: Successful student Login
+User: steve123
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:03 pm
+Attempt: Successful student Login
+User: natasha123
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 10:04 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 10:05 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.187 - May 2, 2019, 10:21 pm
+Attempt: Please enter the user name
+User: 
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 10:26 pm
+Attempt: Please enter the user name
+User: 
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 10:28 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 10:46 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 10:46 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:51 pm
+Attempt: Invalid Input
+User: robb123
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:51 pm
+Attempt: Invalid Input
+User: robb123
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:52 pm
+Attempt: Invalid credentials
+User: robb123
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:52 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:53 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.187 - May 2, 2019, 10:54 pm
+Attempt: Invalid Input
+User: jac8484
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:56 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 10:59 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 10:59 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 10:59 pm
+Attempt: Successful student Login
+User: steve123
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 11:08 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 11:08 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:12 pm
+Attempt: Please enter the user name
+User: 
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:37 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:38 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:40 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:40 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:40 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:40 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:42 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:42 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:46 pm
+Attempt: Invalid credentials
+User: robb
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:46 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.204 - May 2, 2019, 11:46 pm
+Attempt: Successful student Login
+User: steve123
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:46 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:47 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:47 pm
+Attempt: Invalid Input
+User: pavit
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:47 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:48 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:48 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 11:50 pm
+Attempt: Invalid login credentials
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.24 - May 2, 2019, 11:51 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:51 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:51 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:52 pm
+Attempt: Successful student Login
+User: pavithra
+Event:Login
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:52 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:52 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:52 pm
+Attempt: Successful faculty login
+User: robb1234
+Event:Login
+-------------------------
+User: 129.107.80.237 - May 2, 2019, 11:52 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------
+User: 64.189.1.238 - May 2, 2019, 11:53 pm
+INFO: Something went wrong
+User: robb1234
+-------------------------

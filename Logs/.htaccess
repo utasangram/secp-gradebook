@@ -1,0 +1,7 @@
+
+# HTID:9349560: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd1/447/9423447/public_html/Logs/.htpasswd"
+Require user team5secureprog
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:9349560:
